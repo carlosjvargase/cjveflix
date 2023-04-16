@@ -9,5 +9,6 @@
 ![cjveflix3](https://user-images.githubusercontent.com/104727028/231915318-ebe913a9-23b4-4b83-a038-4e84c910be63.PNG)
 ![cjveflix5](https://user-images.githubusercontent.com/104727028/232026694-c23fb48c-27a5-435a-ad2c-10580da3f3ec.PNG)
 ![cjveflix6](https://user-images.githubusercontent.com/104727028/232227374-f6a251ea-7efb-453c-badc-da82e6a95af8.PNG)
+![cjveflix7](https://user-images.githubusercontent.com/104727028/232314108-da743784-8984-4206-93fa-3909d2951664.PNG)
 
 Web Site: https://cjveflix.web.app
